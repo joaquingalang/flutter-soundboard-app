@@ -36,49 +36,49 @@ class SoundboardPage extends StatelessWidget {
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
-                SoundButton(emoji: '🦗', audioPath: ''),
-                SoundButton(emoji: '👏', audioPath: ''),
-                SoundButton(emoji: '💨', audioPath: ''),
+                SoundButton(emoji: '🦗', audioPath: 'cricket.wav'),
+                SoundButton(emoji: '👏', audioPath: 'clapping.wav'),
+                SoundButton(emoji: '💨', audioPath: 'fart.wav'),
               ],
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
-                SoundButton(emoji: '🥁', audioPath: ''),
-                SoundButton(emoji: '🎺', audioPath: ''),
-                SoundButton(emoji: '💣', audioPath: ''),
+                SoundButton(emoji: '🥁', audioPath: 'rimshot.wav'),
+                SoundButton(emoji: '🎺', audioPath: 'trumpet.wav'),
+                SoundButton(emoji: '💣', audioPath: 'explosion.wav'),
               ],
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
-                SoundButton(emoji: '🎊', audioPath: ''),
-                SoundButton(emoji: '🍅', audioPath: ''),
-                SoundButton(emoji: '🚪', audioPath: ''),
+                SoundButton(emoji: '🎊', audioPath: 'celebrate.wav'),
+                SoundButton(emoji: '🍅', audioPath: 'booing.wav'),
+                SoundButton(emoji: '🚪', audioPath: 'doorbell.wav'),
               ],
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
-                SoundButton(emoji: '🔊', audioPath: ''),
-                SoundButton(emoji: '❌', audioPath: ''),
-                SoundButton(emoji: '🦆', audioPath: ''),
+                SoundButton(emoji: '🔊', audioPath: 'airhorn.wav'),
+                SoundButton(emoji: '❌', audioPath: 'buzzer.wav'),
+                SoundButton(emoji: '🦆', audioPath: 'quack.wav'),
               ],
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
-                SoundButton(emoji: '🚨', audioPath: ''),
-                SoundButton(emoji: '🐦', audioPath: ''),
-                SoundButton(emoji: '☎️', audioPath: ''),
+                SoundButton(emoji: '🚨', audioPath: 'siren.wav'),
+                SoundButton(emoji: '🐦', audioPath: 'whistle.wav'),
+                SoundButton(emoji: '☎️', audioPath: 'telephone.wav'),
               ],
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
-                SoundButton(emoji: '🐓', audioPath: ''),
-                SoundButton(emoji: '🧨', audioPath: ''),
-                SoundButton(emoji: '🛎️', audioPath: ''),
+                SoundButton(emoji: '🐓', audioPath: 'rooster.wav'),
+                SoundButton(emoji: '🧨', audioPath: 'firecracker.wav'),
+                SoundButton(emoji: '🛎️', audioPath: 'bell.wav'),
               ],
             ),
           ],
