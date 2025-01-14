@@ -29,7 +29,7 @@ class SoundButton extends StatelessWidget {
           child: Text(
             emoji,
             style: TextStyle(
-              fontSize: 50,
+              fontSize: 30,
             ),
           ),
         ),
